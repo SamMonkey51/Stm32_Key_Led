@@ -7,6 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/CMakeLists.txt"
+  "CMakeFiles/3.29.6/CMakeASMCompiler.cmake"
+  "CMakeFiles/3.29.6/CMakeCCompiler.cmake"
+  "CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.29.6/CMakeSystem.cmake"
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeASMCompiler.cmake.in"
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeASMInformation.cmake"
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeCCompiler.cmake.in"
@@ -102,11 +107,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake"
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Internal/FeatureTesting.cmake"
   "C:/Users/a/Desktop/a/Jetbrains Clion/CLion 2024.2.2/bin/cmake/win/x64/share/cmake-3.29/Modules/Platform/Generic.cmake"
-  "C:/Users/a/Desktop/bb/CMakeLists.txt"
-  "CMakeFiles/3.29.6/CMakeASMCompiler.cmake"
-  "CMakeFiles/3.29.6/CMakeCCompiler.cmake"
-  "CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.29.6/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:
