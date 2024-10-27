@@ -1,0 +1,3 @@
+C:/Users/a/Desktop/bb/cmake-build-debug/CMakeFiles/bb.elf.dir
+C:/Users/a/Desktop/bb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/a/Desktop/bb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
