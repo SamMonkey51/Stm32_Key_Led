@@ -1,5 +1,5 @@
 ToolSet: 12.0 w64 (local)@C:\Users\a\Desktop\a\mingw64
-Ninja: 1.12.0@C:\Users\a\Desktop\a\Jetbrains Clion\CLion 2024.2.2\bin\ninja\win\x64\ninja.exe
+Ninja: 1.12.0@C:\Users\a\Desktop\a\Jetbrains\CLion 2024.2.3\bin\ninja\win\x64\ninja.exe
 Options: 
 
 Options:
