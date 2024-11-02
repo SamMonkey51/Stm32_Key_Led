@@ -5,13 +5,13 @@
 # compile C with C:/Users/a/Desktop/a/STM32CubeMX 6.11.0/clion_env/10 2021.10/bin/arm-none-eabi-gcc.exe
 ASM_DEFINES = -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER
 
-ASM_INCLUDES = -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\CMSIS\Include
+ASM_INCLUDES = -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Core\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\CMSIS\Include
 
 ASM_FLAGS = -g -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -x assembler-with-cpp -Og -g
 
 C_DEFINES = -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER
 
-C_INCLUDES = -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\CMSIS\Include
+C_INCLUDES = -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Core\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\STM32F1xx_HAL_Driver\Inc -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\CMSIS\Device\ST\STM32F1xx\Include -IC:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Drivers\CMSIS\Include
 
 C_FLAGS = -g -std=gnu11 -fdiagnostics-color=always -mcpu=cortex-m3 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -Og -g
 
