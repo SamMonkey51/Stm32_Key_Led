@@ -21,7 +21,6 @@
 #include "tim.h"
 #include "gpio.h"
 
-
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -59,14 +58,13 @@ void SystemClock_Config(void);
 
 /* USER CODE END 0 */
 
-
 /**
   * @brief  The application entry point.
   * @retval int
   */
 int main(void)
 {
-  HAL_TIM_Base_Start_IT(&htim3);
+
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
@@ -99,18 +97,8 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
-
-    //轮询
-    if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_3) == GPIO_PIN_RESET) {
-      HAL_Delay(50);
-      if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_3) == GPIO_PIN_RESET) {
-        HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-     }
-    HAL_Delay(50);
-    }
+    HAL_TIM_PeriodElapsedCallback(&htim3);
     /* USER CODE BEGIN 3 */
-
   }
   /* USER CODE END 3 */
 }
@@ -153,9 +141,20 @@ void SystemClock_Config(void)
     Error_Handler();
   }
 }
-
+int tim_delay = 0;
 /* USER CODE BEGIN 4 */
+void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
+{
+  if(htim->Instance == htim3.Instance)
+  {
 
+    if(++tim_delay>=5)
+    {
+      tim_delay = 0;
+      HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+    }
+  }
+}
 /* USER CODE END 4 */
 
 /**
