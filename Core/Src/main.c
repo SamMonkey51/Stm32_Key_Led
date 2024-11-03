@@ -21,7 +21,6 @@
 #include "tim.h"
 #include "gpio.h"
 
-
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -59,14 +58,13 @@ void SystemClock_Config(void);
 
 /* USER CODE END 0 */
 
-
 /**
   * @brief  The application entry point.
   * @retval int
   */
 int main(void)
 {
-  HAL_TIM_Base_Start_IT(&htim3);
+
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
@@ -100,17 +98,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
-
-    //轮询
-    if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_3) == GPIO_PIN_RESET) {
-      HAL_Delay(50);
-      if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_3) == GPIO_PIN_RESET) {
-        HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-     }
-    HAL_Delay(50);
-    }
     /* USER CODE BEGIN 3 */
-
   }
   /* USER CODE END 3 */
 }
