@@ -48,6 +48,15 @@
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
+  static uint32_t last_time = 0;
+  uint32_t current_time = HAL_GetTick();
+
+  if (GPIO_Pin == GPIO_PIN_3 && (current_time - last_time > 50)) { // 50ms 防抖延时
+    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13); // 切换 LED 状态
+  }
+  last_time = current_time;
+}
 
 void SystemClock_Config(void);
 /* USER CODE BEGIN PFP */
@@ -63,21 +72,6 @@ void SystemClock_Config(void);
   * @brief  The application entry point.
   * @retval int
   */
-void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin) {
-  static uint32_t last_time_button1 = 0;
-  static uint32_t last_time_button2 = 0;
-  uint32_t current_time = HAL_GetTick();
-
-  if (GPIO_Pin == GPIO_PIN_3 && (current_time - last_time_button1 > 50)) {
-    HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_6);
-    last_time_button1 = current_time;
-  }
-
-  if (GPIO_Pin == GPIO_PIN_4 && (current_time - last_time_button2 > 50)) {
-    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-    last_time_button2 = current_time;
-  }
-}
 int main(void)
 {
 
