@@ -1,5 +1,5 @@
 CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj: \
- C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\sysmem.c \
+ C:\Users\a\Desktop\bb\Core\Src\sysmem.c \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\errno.h \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\sys\errno.h \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\sys\reent.h \

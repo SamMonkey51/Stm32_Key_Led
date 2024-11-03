@@ -52,10 +52,10 @@ RM = "C:\Users\a\Desktop\a\Jetbrains Clion\CLion 2024.2.2\bin\cmake\win\x64\bin\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light
+CMAKE_SOURCE_DIR = C:\Users\a\Desktop\bb
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\a\Desktop\bb\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bb.elf.dir/depend.make
@@ -69,311 +69,311 @@ include CMakeFiles/bb.elf.dir/progress.make
 include CMakeFiles/bb.elf.dir/flags.make
 
 CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/gpio.c
+CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj: C:/Users/a/Desktop/bb/Core/Src/gpio.c
 CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\gpio.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\gpio.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/gpio.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\gpio.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\gpio.c.obj -c C:\Users\a\Desktop\bb\Core\Src\gpio.c
 
 CMakeFiles/bb.elf.dir/Core/Src/gpio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/gpio.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\gpio.c > CMakeFiles\bb.elf.dir\Core\Src\gpio.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\gpio.c > CMakeFiles\bb.elf.dir\Core\Src\gpio.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/gpio.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\gpio.c -o CMakeFiles\bb.elf.dir\Core\Src\gpio.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\gpio.c -o CMakeFiles\bb.elf.dir\Core\Src\gpio.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/main.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/main.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/main.c
+CMakeFiles/bb.elf.dir/Core/Src/main.c.obj: C:/Users/a/Desktop/bb/Core/Src/main.c
 CMakeFiles/bb.elf.dir/Core/Src/main.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/bb.elf.dir/Core/Src/main.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\main.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/bb.elf.dir/Core/Src/main.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\main.c.obj -c C:\Users\a\Desktop\bb\Core\Src\main.c
 
 CMakeFiles/bb.elf.dir/Core/Src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/main.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\main.c > CMakeFiles\bb.elf.dir\Core\Src\main.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\main.c > CMakeFiles\bb.elf.dir\Core\Src\main.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/main.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\main.c -o CMakeFiles\bb.elf.dir\Core\Src\main.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\main.c -o CMakeFiles\bb.elf.dir\Core\Src\main.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/stm32f1xx_hal_msp.c
+CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: C:/Users/a/Desktop/bb/Core/Src/stm32f1xx_hal_msp.c
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_hal_msp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_hal_msp.c
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_hal_msp.c > CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_hal_msp.c > CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_hal_msp.c -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_hal_msp.c -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_hal_msp.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/stm32f1xx_it.c
+CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj: C:/Users/a/Desktop/bb/Core/Src/stm32f1xx_it.c
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_it.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.obj -c C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_it.c
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_it.c > CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_it.c > CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/stm32f1xx_it.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\stm32f1xx_it.c -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\stm32f1xx_it.c -o CMakeFiles\bb.elf.dir\Core\Src\stm32f1xx_it.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/syscalls.c
+CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj: C:/Users/a/Desktop/bb/Core/Src/syscalls.c
 CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\syscalls.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.obj -c C:\Users\a\Desktop\bb\Core\Src\syscalls.c
 
 CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\syscalls.c > CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\syscalls.c > CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\syscalls.c -o CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\syscalls.c -o CMakeFiles\bb.elf.dir\Core\Src\syscalls.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/sysmem.c
+CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj: C:/Users/a/Desktop/bb/Core/Src/sysmem.c
 CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\sysmem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.obj -c C:\Users\a\Desktop\bb\Core\Src\sysmem.c
 
 CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\sysmem.c > CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\sysmem.c > CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/sysmem.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\sysmem.c -o CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\sysmem.c -o CMakeFiles\bb.elf.dir\Core\Src\sysmem.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/system_stm32f1xx.c
+CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/a/Desktop/bb/Core/Src/system_stm32f1xx.c
 CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\system_stm32f1xx.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.obj -c C:\Users\a\Desktop\bb\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\system_stm32f1xx.c > CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\system_stm32f1xx.c > CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/system_stm32f1xx.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\system_stm32f1xx.c -o CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\system_stm32f1xx.c -o CMakeFiles\bb.elf.dir\Core\Src\system_stm32f1xx.c.s
 
 CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Src/tim.c
+CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj: C:/Users/a/Desktop/bb/Core/Src/tim.c
 CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\tim.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\tim.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\tim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Core/Src/tim.c.obj -MF CMakeFiles\bb.elf.dir\Core\Src\tim.c.obj.d -o CMakeFiles\bb.elf.dir\Core\Src\tim.c.obj -c C:\Users\a\Desktop\bb\Core\Src\tim.c
 
 CMakeFiles/bb.elf.dir/Core/Src/tim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Core/Src/tim.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\tim.c > CMakeFiles\bb.elf.dir\Core\Src\tim.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Core\Src\tim.c > CMakeFiles\bb.elf.dir\Core\Src\tim.c.i
 
 CMakeFiles/bb.elf.dir/Core/Src/tim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Core/Src/tim.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\tim.c -o CMakeFiles\bb.elf.dir\Core\Src\tim.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Core\Src\tim.c -o CMakeFiles\bb.elf.dir\Core\Src\tim.c.s
 
 CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Core/Startup/startup_stm32f103c8tx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building ASM object CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Startup\startup_stm32f103c8tx.s
+CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: C:/Users/a/Desktop/bb/Core/Startup/startup_stm32f103c8tx.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building ASM object CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.obj -c C:\Users\a\Desktop\bb\Core\Startup\startup_stm32f103c8tx.s
 
 CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing ASM source to CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Startup\startup_stm32f103c8tx.s > CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\a\Desktop\bb\Core\Startup\startup_stm32f103c8tx.s > CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.i
 
 CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling ASM source to assembly CMakeFiles/bb.elf.dir/Core/Startup/startup_stm32f103c8tx.s.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Startup\startup_stm32f103c8tx.s -o CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\a\Desktop\bb\Core\Startup\startup_stm32f103c8tx.s -o CMakeFiles\bb.elf.dir\Core\Startup\startup_stm32f103c8tx.s.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.s
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/bb.elf.dir/flags.make
-CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
+CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: C:/Users/a/Desktop/bb/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/bb.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.i
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c > CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.i
 
 CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s"
-	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.s
+	C:\Users\a\Desktop\a\STM32C~1.0\CLION_~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\a\Desktop\bb\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c -o CMakeFiles\bb.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.s
 
 # Object files for target bb.elf
 bb_elf_OBJECTS = \
@@ -427,12 +427,12 @@ bb.elf: CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim
 bb.elf: CMakeFiles/bb.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
 bb.elf: CMakeFiles/bb.elf.dir/build.make
 bb.elf: CMakeFiles/bb.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable bb.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable bb.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\bb.elf.dir\link.txt --verbose=$(VERBOSE)
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.hex"
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.bin"
-	arm-none-eabi-objcopy -Oihex C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.elf C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.hex
-	arm-none-eabi-objcopy -Obinary C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.elf C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug/bb.bin
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/a/Desktop/bb/cmake-build-debug/bb.hex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building C:/Users/a/Desktop/bb/cmake-build-debug/bb.bin"
+	arm-none-eabi-objcopy -Oihex C:/Users/a/Desktop/bb/cmake-build-debug/bb.elf C:/Users/a/Desktop/bb/cmake-build-debug/bb.hex
+	arm-none-eabi-objcopy -Obinary C:/Users/a/Desktop/bb/cmake-build-debug/bb.elf C:/Users/a/Desktop/bb/cmake-build-debug/bb.bin
 
 # Rule to build all files generated by this target.
 CMakeFiles/bb.elf.dir/build: bb.elf
@@ -443,6 +443,6 @@ CMakeFiles/bb.elf.dir/clean:
 .PHONY : CMakeFiles/bb.elf.dir/clean
 
 CMakeFiles/bb.elf.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug\CMakeFiles\bb.elf.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\a\Desktop\bb C:\Users\a\Desktop\bb C:\Users\a\Desktop\bb\cmake-build-debug C:\Users\a\Desktop\bb\cmake-build-debug C:\Users\a\Desktop\bb\cmake-build-debug\CMakeFiles\bb.elf.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/bb.elf.dir/depend
 
