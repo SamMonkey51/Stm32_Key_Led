@@ -1,5 +1,5 @@
 CMakeFiles/bb.elf.dir/Core/Src/syscalls.c.obj: \
- C:\Users\a\Desktop\a\Clion_Projects\Stm32\Led_Test\Core\Src\syscalls.c \
+ C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\Core\Src\syscalls.c \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\sys\stat.h \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\_ansi.h \
  c:\users\a\desktop\a\stm32c~1.0\clion_~1\102021~1.10\arm-none-eabi\include\newlib.h \
