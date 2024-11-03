@@ -1,4 +1,4 @@
-"C:\Users\a\Desktop\a\Jetbrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light -B C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug
+"C:\Users\a\Desktop\a\Jetbrains Clion\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light -B C:\Users\a\Desktop\a\Clion_Projects\Stm32\water_flow_light\cmake-build-debug
 -- The C compiler identification is GNU 10.3.1
 -- The CXX compiler identification is GNU 10.3.1
 -- The ASM compiler identification is GNU
@@ -14,6 +14,6 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (2.1s)
+-- Configuring done (1.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: C:/Users/a/Desktop/a/Clion_Projects/Stm32/water_flow_light/cmake-build-debug
